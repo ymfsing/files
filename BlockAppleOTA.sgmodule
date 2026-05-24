@@ -1,5 +1,5 @@
-#!name=BlockOTA
-#!desc=Blcok System Update
+#!name=BlockAppleOTA
+#!desc=Blcok Apple System Update
 #!system=Apple
 
 [Rule]
